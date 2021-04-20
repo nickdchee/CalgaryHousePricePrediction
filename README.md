@@ -6,4 +6,6 @@ The real-estate agent and client will then discuss and come up with a listing pr
 
 This analysis may be a great tool for all parties in a transaction: real-estate agents and sellers could use this information to be assured of their listing price, and buyers can determine whether or not the current estate is under/over-valued.
 
+[Link to notebook in nbviewer](https://nbviewer.jupyter.org/github/nickdchee/CalgaryHousePricePrediction/blob/main/real-estate-prediction.ipynb)
+
 <img src="map_keplergl.png">
